@@ -2,12 +2,12 @@
   Jogo da Velha com JS e React Native
 </h1>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marlon-developer/bmi-calculator">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marlon-developer/ticTacToe">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/marlon-developer/bmi-calculator">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/marlon-developer/ticTacToe">
   
-  <a href="https://github.com/marlon-developer/bmi-calculator/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marlon-developer/bmi-calculator">
+  <a href="https://github.com/marlon-developer/ticTacToe/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/marlon-developer/ticTacToe">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
